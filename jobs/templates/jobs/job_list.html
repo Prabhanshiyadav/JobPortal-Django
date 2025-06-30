@@ -1,0 +1,10 @@
+
+<h1>Job Listings</h1>
+<a href="{% url 'job_create' %}">Add New Job</a>
+<ul>
+{% for job in object_list %}
+    <li>
+        <a href="{% url 'job_detail' job.pk %}">{{ job.title }}</a> - {{ job.company }}
+    </li>
+{% endfor %}
+</ul>

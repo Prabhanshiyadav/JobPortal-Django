@@ -1,0 +1,9 @@
+
+<h2>{{ object.title }}</h2>
+<p>Company: {{ object.company }}</p>
+<p>Location: {{ object.location }}</p>
+<p>Salary: ${{ object.salary }}</p>
+<p>{{ object.description }}</p>
+<a href="{% url 'job_edit' object.pk %}">Edit</a> |
+<a href="{% url 'job_delete' object.pk %}">Delete</a> |
+<a href="{% url 'job_list' %}">Back</a>
