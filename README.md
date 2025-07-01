@@ -6,7 +6,7 @@ A full-featured Job Portal built using **Django**. It allows employers to post j
 
 ## 🌐 Live Demo
 
-🔗 **Live Site:** [https://edumanage-project.onrender.com/](https://edumanage-project.onrender.com/)  
+🔗 **Live Site:** [https://edumanage-project.onrender.com/](https://jobportal-n5ym.onrender.com/)  
 🔗 **GitHub Repository:** [https://github.com/Prabhanshiyadav/JobPortal-Django](https://github.com/Prabhanshiyadav/JobPortal-Django)
 
 ---
