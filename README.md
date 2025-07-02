@@ -1,4 +1,4 @@
-# 🧑‍💼 JobPortal Django Web Application
+🧑‍💼 JobPortal Django Web Application
 
 A full-featured Job Portal built using **Django**. It allows employers to post job listings and job seekers to view and apply for them. The platform is deployed live using **Render**.
 
