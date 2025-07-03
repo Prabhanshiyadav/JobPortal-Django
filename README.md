@@ -47,7 +47,6 @@ JobPortal/
 
 
 
-
 ---
 
 ## ⚙️ Installation (Local Setup)
